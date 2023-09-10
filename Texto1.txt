@@ -1,2 +1,4 @@
 Hola mundo
 Este es mi primer archivo .txt
+
+Aprendiendo a dominar git por completo.
