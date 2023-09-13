@@ -1,0 +1,17 @@
+Gestion de la configuracion:
+	Gestiona la definicion de un producto, sistema o proceso desde su definicion mas temprana
+	En algunos casos, es requerida para ser gestionada post despliegue donde acceder a la data o a la documentacion puede ser requerida
+	Ayuda a los proyectos profesionales asegurar que sus productos o sistemas conocer sus requisitos funcionales
+	Reduce el tiempo de desarrollo, minimiza el costo de vida, mejora la calidad del producto en general
+	Parte esencial de la estrategia de entrega del proyecto.
+	Fue introducida formalmente por el Departamento de Defensa de USA en los 50/60's
+	En los 90's era masa evident en sectores comerciales
+	Es considerada por muchos como un elemento integral de la funcion de gestion de proyectos
+	Es una actividad repetitiva para establecer y mantener la integridad de un producto o sistema evolutivo a traves de su ciclo de vida.
+	Mientras, la gestion de proyectos esta especificamente concentrada en la definicion y ejecuccion de ciclo de vida a nivel de proyecto.
+
+Literatura en barreras de la implementacion de Gestion de la Configuracion:
+	Las barreras de la GC se refiere a las accciones potenciales que impiden la implementacion efectiva del proceso en lograr los objetivos.
+	Falta de flexibilidad en el proceso de GC, apresurmiento extremos, falta de autoridad, requisitos pobres
+	
+	
