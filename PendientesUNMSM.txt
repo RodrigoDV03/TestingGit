@@ -1,0 +1,20 @@
+Interaccion
+	Escenario entregable 2
+
+S.o.
+	Tarea semana 5
+
+Gestion
+	Control de lectura 1
+
+Formacion
+	Plan de negocio
+	
+Aseguramiento
+	Jenkis
+	
+Base de datos
+	--
+
+Diseño
+	--
